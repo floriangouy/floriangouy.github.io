@@ -2,6 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+# https://docs.github.com/en/pages
+# https://github.com/pages-themes/tactile
+# https://gitmoji.dev/
+
 layout: default-florian
 ---
 
@@ -12,7 +16,7 @@ Merci pour votre visite et à bientôt !
 
 [![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/floriangouy/) 
 &nbsp; [![X (GitHub)](assets/github.svg)](https://github.com/floriangouy/)
-&nbsp; [![X (Twitter)](assets/x.svg)](https://twitter.com/floriangouy) 
+&nbsp; [![X (Twitter)](assets/x.svg)](https://x.com/floriangouy) 
 &nbsp; [![X (Facebook)](assets/facebook.svg)](https://fr-fr.facebook.com/public/Florian-Gouy)
 
 <!-- Profile badges from https://github.com/alexandresanlim/Badges4-README.md-Profile -->
