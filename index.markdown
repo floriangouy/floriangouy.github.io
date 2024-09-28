@@ -9,7 +9,7 @@
 layout: default-florian
 ---
 
-J'oeuvre à maximiser la valeur de vos produits depuis plus de 10 ans.<br />
+J'œuvre à maximiser la valeur des produits et la satisfaction des utilisateurs depuis plus de 10 ans.<br />
 Pour en savoir plus sur mon profil et me contacter, rendez-vous sur LinkedIn.
 
 Merci pour votre visite et à bientôt !
