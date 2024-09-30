@@ -21,10 +21,7 @@ Merci pour votre visite et à bientôt !
 
 <!-- Profile badges from https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-<br />
-
 ---
-<br />
 
 ## Publications archivées
 * [Réparer la vitre tactile d'un smartphone : Nokia Lumia 520](https://archive.fablabo.net/wiki/R%C3%A9parer_la_vitre_tactile_d%27un_smartphone_:_Nokia_Lumia_520)
