@@ -24,6 +24,9 @@ Merci pour votre visite et à bientôt !
 ---
 
 ## Publications archivées
+
+Licence Creative Commons [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.fr).
+
 * [Réparer la vitre tactile d'un smartphone : Nokia Lumia 520](https://archive.fablabo.net/wiki/R%C3%A9parer_la_vitre_tactile_d%27un_smartphone_:_Nokia_Lumia_520)
 * [Réparer le câble électrique d'un appareil : Sèche cheveux Braun Silencio 1000](https://archive.fablabo.net/wiki/R%C3%A9parer_le_c%C3%A2ble_%C3%A9lectrique_d%27un_appareil_:_S%C3%A8che_cheveux_Braun_Silencio_1000)
 * [Réparer les soudures d'une carte graphique : NVIDIA GeForce 8600M GT](https://archive.fablabo.net/wiki/R%C3%A9parer_les_soudures_d%27une_carte_graphique_:_NVIDIA_GeForce_8600M_GT)
